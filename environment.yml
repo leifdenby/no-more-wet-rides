@@ -7,3 +7,5 @@ dependencies:
   - wradlib
   - flask
   - gunicorn
+  - requests
+  - pandas
